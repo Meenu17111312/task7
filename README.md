@@ -45,5 +45,3 @@ ORDER BY total_revenue DESC;
 -   Task7_Sales_Report.pdf
 -   sales_data_amazon.csv
 
-
-Your Name
